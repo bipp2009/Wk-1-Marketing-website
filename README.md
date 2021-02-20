@@ -1,5 +1,10 @@
 # 01 HTML CSS Git: Code Refactor
 
+## Changes I have made to this website:
+-  Added semantic element for the header
+- Fixed broken link in Search Engine Optimisation
+
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
