@@ -1,8 +1,11 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Changes I have made to this website:
--  Added semantic element for the header
+- Added semantic elements
 - Fixed broken link in Search Engine Optimisation
+- Cleaned up css
+- Removed duplicate class names
+- Added comments
 
 
 ## Your Task
