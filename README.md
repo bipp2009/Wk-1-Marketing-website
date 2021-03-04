@@ -7,6 +7,9 @@
 - Removed duplicate class names
 - Added comments
 
+## Link to deployed application:
+
+https://bipp2009.github.io/Wk-1-Marketing-website/ 
 
 ## Your Task
 
